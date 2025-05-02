@@ -105,13 +105,14 @@ button:active {
     background-color: white;
   }
   .text h1 {
-    width: 50vh;
+    width: 100%;
+    font-size: 30px;
   }
   .text p {
     width: 80%;
   }
   .button {
-    
+    width: 100%;
    
   }
 }
